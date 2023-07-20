@@ -18,6 +18,11 @@ Dataset used for this project includes Spotify's most popular music tracks from 
 ![danceability](https://github.com/laasyane11ore/Data-Analysis/assets/138700086/cfb9554d-27ff-4d3a-aa4a-bdf8f7e34eaa)
 ### Popular genre based on number of tracks
 ![popular_genre](https://github.com/laasyane11ore/Data-Analysis/assets/138700086/93626de2-11da-43a8-9b4a-836511837595)
+### Word cloud - most frequently featured artists
+![word_c_artists](https://github.com/laasyane11ore/Data-Analysis/assets/138700086/ca03f870-9a25-48f8-b686-f3d7ff9d0967)
+
+### Word Cloud - most frequently used words in a song
+![word_cloud_words](https://github.com/laasyane11ore/Data-Analysis/assets/138700086/47739a6e-fe66-4198-921a-d96de0c70466)
 
 ### Correlation Plot
 ![corr_plot](https://github.com/laasyane11ore/Data-Analysis/assets/138700086/61fd13c5-966e-4fd4-bb3a-9c1cb41fc455)
